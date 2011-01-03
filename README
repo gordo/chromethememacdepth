@@ -1,0 +1,8 @@
+2011 January 2. Google Chrome theme based heavily on the default theme for the browser on Mac OS X. Uses heavier shadows in contrast to the relatively flat look of the original theme.
+
+Known issue: Inactive tabs when browser is out of focus retain their active tab background.
+
+https://chrome.google.com/webstore/detail/achbgpleihkolmjjphoidmhcaccodlll
+https://chrome.google.com/extensions/detail/achbgpleihkolmjjphoidmhcaccodlll
+
+Last tested on Google Chrome 10.0.612.3 dev on Mac OS X 10.6.5.
