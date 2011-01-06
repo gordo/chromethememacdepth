@@ -4,11 +4,11 @@
    "version": "1.0",
    "theme": {
 		"images": {
-			"theme_frame":	"images/frame_default.png",
+			"theme_frame": "images/frame_default.png",
 			"theme_frame_inactive":	"images/frame_default_inactive.png",
-			"theme_toolbar":	"images/theme_toolbar_default.png",
+			"theme_toolbar": "images/theme_toolbar_default.png",
 			"theme_tab_background":	"images/theme_tab_background.png",
-			"theme_tab_background_incognito":	"images/theme_tab_background_incognito.png",
+			"theme_tab_background_incognito": "images/theme_tab_background_incognito.png",
 			"theme_ntp_background":	"images/ntp_background.png"
 		},
 		"colors": {
@@ -16,7 +16,7 @@
 			"frame_inactive": [152, 188, 233],
 			"frame_incognito": [83, 106, 139],
 			"frame_incognito_inactive":	[126, 139, 156],
-			"toolbar": [210, 225, 246],
+			"toolbar": [235, 235, 235],
 			"tab_text":	[0, 0, 0],
 			"tab_background_text": [64, 64, 64],
 			"bookmark_text": [0, 0, 0],
